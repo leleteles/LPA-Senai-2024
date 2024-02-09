@@ -2,9 +2,12 @@ programa
 {
 	
 	funcao inicio()
-	{ real n1, n2, n3, media, soma
+	{ real n1, n2, n3, media, soma
 	cadeia nome
 
+	
+	escreva ("Digite seu nome")
+	leia(nome)
 	
 	escreva ("Digite a 1º nota")
 	leia (n1)
@@ -16,11 +19,9 @@ programa
 	soma= n1 + n2 +n3
 	media=soma / 3
 
-	escreva ("Digite seu nome")
-	leia(nome)
 
 	
-	escreva (nome, "sua média é:", media)
+	escreva (nome, ", sua média é:", media)
 		
 	}
 }
@@ -29,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 208; 
+ * @POSICAO-CURSOR = 306; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
