@@ -15,7 +15,7 @@ programa
 		
 		idade= anoatual - nascimento
 
-		escreva (nome, "você tem", idade, "anos de idade")
+		escreva (nome, ",você tem", idade, "anos de idade")
 		
 		
 	}
@@ -25,8 +25,8 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 256; 
- * @PONTOS-DE-PARADA = ;
+ * @POSICAO-CURSOR = 215; 
+ * @PONTOS-DE-PARADA = 14;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
