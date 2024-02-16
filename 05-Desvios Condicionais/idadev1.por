@@ -21,11 +21,12 @@ programa
 		{
 			escreva("Já pode tomar toddynho :)")
 			}
-		}
+		
 
 		se (idade >=18)
 		{
 		escreva ("Você é de maior")
+		}
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -33,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 295; 
+ * @POSICAO-CURSOR = 347; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
